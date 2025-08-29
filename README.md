@@ -15,6 +15,5 @@ This repository is the result: a simple, organized Python project that computes 
 
 
 
-<div align="center">
+
   <img src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" height= "600 width="800" />
-</div>
