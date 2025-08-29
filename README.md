@@ -11,9 +11,7 @@ This repository is the result: a simple, organized Python project that computes 
 <img src="https://github.com/user-attachments/assets//c10ae012-f9a5-4271-92ad-894cc7e12da1" height ="477" width="415"/>
 
 
-
-<img width="1424" height="721" alt="Screenshot 2025-08-29 155007" src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" />
-
+<img src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" height ="421" width="830"/>
 
 
 
