@@ -14,5 +14,5 @@ This repository is the result: a simple, organized Python project that computes 
 
 <img width="1424" height="721" alt="Screenshot 2025-08-29 155007" src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" />
 
-<img width="606" height="283" alt="Screenshot 2025-08-29 155035" src="https://github.com/user-attachments/assets/c2b99743-83c5-42e5-bb98-543d426dc62f" />
+
 
