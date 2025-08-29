@@ -16,4 +16,3 @@ This repository is the result: a simple, organized Python project that computes 
 
 <img width="606" height="283" alt="Screenshot 2025-08-29 155035" src="https://github.com/user-attachments/assets/c2b99743-83c5-42e5-bb98-543d426dc62f" />
 
-<img width="972" height="557" alt="Screenshot 2025-08-29 155126" src="https://github.com/user-attachments/assets/03b5a986-3217-47ed-a83a-3b7072b5bac5" />
