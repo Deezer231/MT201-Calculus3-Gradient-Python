@@ -30,16 +30,15 @@ This repository is the result: a simple, organized Python project that computes 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Deezer231/MT201-Calculus3-Gradient-Python.git
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run 
+```bash
 cd MT201-Calculus3-Gradient-Python
+python src/classroom_demo.py
 ```
-
-### 2. Environment Variables
-Create a `.env` file in `PD-BACKEND/` (see `.env.example`):
-```
-MONGODB_URI=your_mongodb_uri
-MYSQL_HOST=your_mysql_host
-MYSQL_USER=your_mysql_user
-MYSQL_PASSWORD=your_mysql_password
-MYSQL_DATABASE=your_mysql_db
-```
-
