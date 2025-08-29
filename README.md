@@ -43,3 +43,7 @@ cd MT201-Calculus3-Gradient-Python
 python src/classroom_demo.py
 ```
 * Check terminal for results
+
+# 3. (Optional) Open the notebook:
+
+Launch Jupyter Notebook and open class_version.ipynb for the classroom-style version.
