@@ -1,9 +1,7 @@
 
 """
 Gradient and Directional Derivative Demo
----------------------------------------
 This script shows how to compute gradients and directional derivatives in Python using SymPy.
-I learned the math in a JupyterHub classroom, but wanted to see how to do it in real code.
 """
 
 import sympy as sp
