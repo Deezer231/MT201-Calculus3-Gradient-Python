@@ -10,7 +10,7 @@ This repository is the result: a simple, organized Python project that computes 
 <img src="https://github.com/user-attachments/assets//508db117-8e7b-47ee-b6c5-347325daf3c3" height ="477" width="406"/> 
 <img src="https://github.com/user-attachments/assets//c2b99743-83c5-42e5-bb98-543d426dc62f" height ="477" width="415"/>
 
-<img src="https://github.com/user-attachments/assets/db79e47d-0424-46f0-9573-753121e9ddc9" height ="317" width="410"/>
+
 
 <img width="1424" height="721" alt="Screenshot 2025-08-29 155007" src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" />
 
