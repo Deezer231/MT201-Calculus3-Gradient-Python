@@ -42,4 +42,4 @@ pip install -r requirements.txt
 cd MT201-Calculus3-Gradient-Python
 python src/classroom_demo.py
 ```
-# Check terminal for results
+* Check terminal for results
