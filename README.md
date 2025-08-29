@@ -51,12 +51,12 @@ Launch Jupyter Notebook and open class_version.ipynb for the classroom-style ver
 ## Folder Structure
 ```
 MT201-Calculus3-Gradient-Python/ 
-├── notebooks/ # Jupyter notebook(s) for classroom-style math 
+├── notebooks/                   # Jupyter notebook(s) for classroom-style math 
 ├── class_version.ipynb 
-├── src/ # Python source code 
-├── classroom_demo.py # Main demo script (step-by-step math) 
-│── math_functions.py # Symbolic math functions (optional) 
-├── .gitignore # Git ignore file 
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── src/                         # Python source code 
+├── classroom_demo.py            # Main demo script (step-by-step math) 
+│── math_functions.py            # Symbolic math functions (optional) 
+├── .gitignore                   # Git ignore file 
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
 ```
