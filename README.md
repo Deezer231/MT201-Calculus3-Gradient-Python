@@ -13,3 +13,33 @@ This repository is the result: a simple, organized Python project that computes 
 
 
   <img src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" height= "1000" width="830" />
+
+
+## Tech Stack
+- Python 3
+- SymPy (for symbolic mathematics)
+- Jupyter Notebook (optional, for interactive exploration)
+- VS Code (recommended editor)
+
+## Prerequisites
+- Python 3 installed on your system
+- pip (Python package manager)
+
+## Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Deezer231/MT201-Calculus3-Gradient-Python.git
+cd MT201-Calculus3-Gradient-Python
+```
+
+### 2. Environment Variables
+Create a `.env` file in `PD-BACKEND/` (see `.env.example`):
+```
+MONGODB_URI=your_mongodb_uri
+MYSQL_HOST=your_mysql_host
+MYSQL_USER=your_mysql_user
+MYSQL_PASSWORD=your_mysql_password
+MYSQL_DATABASE=your_mysql_db
+```
+
