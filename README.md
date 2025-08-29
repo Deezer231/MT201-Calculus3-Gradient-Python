@@ -7,4 +7,13 @@ In class, we wrote SageMath and Python code in JupyterHub notebooks to explore m
 
 This repository is the result: a simple, organized Python project that computes gradients and directional derivatives using SymPy, and prints the results in a clear, classroom-style format.
 
+<img src="https://github.com/user-attachments/assets/ab2517df-27f4-416b-9d47-64900205ea26" height ="477" width="406"/> 
+<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="477" width="415"/>
 
+<img src="https://github.com/user-attachments/assets/db79e47d-0424-46f0-9573-753121e9ddc9" height ="317" width="410"/>
+
+<img width="1424" height="721" alt="Screenshot 2025-08-29 155007" src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" />
+
+<img width="606" height="283" alt="Screenshot 2025-08-29 155035" src="https://github.com/user-attachments/assets/c2b99743-83c5-42e5-bb98-543d426dc62f" />
+
+<img width="972" height="557" alt="Screenshot 2025-08-29 155126" src="https://github.com/user-attachments/assets/03b5a986-3217-47ed-a83a-3b7072b5bac5" />
