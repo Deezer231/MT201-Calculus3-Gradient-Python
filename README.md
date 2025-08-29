@@ -12,6 +12,9 @@ This repository is the result: a simple, organized Python project that computes 
   <img src="https://github.com/user-attachments/assets//c10ae012-f9a5-4271-92ad-894cc7e12da1" height= "600" width="400" />
 </div>
 
+
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/508db117-8e7b-47ee-b6c5-347325daf3c3" width="800" />
 </div>
