@@ -57,6 +57,6 @@ MT201-Calculus3-Gradient-Python/
 ├── classroom_demo.py # Main demo script (step-by-step math) 
 │── math_functions.py # Symbolic math functions (optional) 
 ├── .gitignore # Git ignore file 
-├──requirements.txt # Python dependencies
+├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 ```
