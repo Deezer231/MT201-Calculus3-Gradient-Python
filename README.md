@@ -9,7 +9,7 @@ This repository is the result: a simple, organized Python project that computes 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets//03b5a986-3217-47ed-a83a-3b7072b5bac5" height= "400" width="400" />
-  <img src="https://github.com/user-attachments/assets//c10ae012-f9a5-4271-92ad-894cc7e12da1" height= "500" width="400" />
+  <img src="https://github.com/user-attachments/assets//c10ae012-f9a5-4271-92ad-894cc7e12da1" height= "600" width="400" />
 </div>
 
 <div align="center">
